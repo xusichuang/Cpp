@@ -1,0 +1,5 @@
+﻿D:\Visual Studio\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(05_面向对象编程.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  08_引用的本质（重要）.cpp
+  09_常量引用.cpp
+  正在生成代码...
+  05_面向对象编程.vcxproj -> E:\学习\C++笔记\05_面向过程编程\x64\Debug\05_函数高级用法.exe

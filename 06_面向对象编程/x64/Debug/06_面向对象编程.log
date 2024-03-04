@@ -1,0 +1,9 @@
+﻿  11_静态成员变量(重要).cpp
+  12_静态成员函数（重要）.cpp
+  28_多态的基本语法.cpp
+  29_多态案例1_计算器.cpp
+C:\Users\15310\Desktop\C++\06_面向对象编程\29_多态案例1_计算器.cpp(111,9): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+  33_.cpp
+  正在生成代码...
+C:\Users\15310\Desktop\C++\06_面向对象编程\29_多态案例1_计算器.cpp(38): warning C4715: “Calculator::getResult”: 不是所有的控件路径都返回值
+  06_面向对象编程.vcxproj -> C:\Users\15310\Desktop\C++\06_面向对象编程\x64\Debug\06_面向对象编程.exe
